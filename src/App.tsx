@@ -57,7 +57,7 @@ export default function App() {
 
   return (
     <div className="app">
-      <h2 className="title">SVG → DXF Converter</h2>
+      <h2 className="title">SVG → DXF Converter 1.0</h2>
 
       <label className="file-label">
         <input
